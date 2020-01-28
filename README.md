@@ -2,4 +2,6 @@
 
 repositório contendo arquivos de tecnícas de prot
 
-> Video da produção da placa : https://youtu.be/X5bCmTGeRY4 
+> Teste funcional do circuito ponte H: https://youtu.be/uUiPD2X1OSA
+
+> Video da produção da placa: https://youtu.be/X5bCmTGeRY4 
