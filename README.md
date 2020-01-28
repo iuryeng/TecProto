@@ -1,6 +1,6 @@
 # TecProto
 
-Projeto Shield Ponte H
+Projeto Shield Ponte H para Arduino
 
 > Simulação do circuito ponte H no proteus: https://youtu.be/N4v_dAQ7tW8
 
