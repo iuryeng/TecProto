@@ -6,7 +6,7 @@ repositório contendo arquivos de tecnícas de prototipagem
 
 > Teste funcional do circuito ponte H: https://youtu.be/uUiPD2X1OSA
 
-> Video da produção da placa: https://youtu.be/X5bCmTGeRY4 
+> Produção da placa: https://youtu.be/X5bCmTGeRY4 
 
 > Placa de circuito do shield: 
 
