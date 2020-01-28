@@ -1,6 +1,8 @@
 # TecProto
 
-repositório contendo arquivos de tecnícas de prot
+repositório contendo arquivos de tecnícas de prototipagem
+
+> Simulação do circuito ponte H no proteus: https://youtu.be/N4v_dAQ7tW8
 
 > Teste funcional do circuito ponte H: https://youtu.be/uUiPD2X1OSA
 
