@@ -9,3 +9,7 @@ repositório contendo arquivos de tecnícas de prot
 > Placa de circuito do shield: 
 
 ![image](desing_shield_circuito.png)
+
+> Montagem do circuito
+
+![image](montagem_circuito.png)
