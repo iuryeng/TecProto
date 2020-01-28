@@ -1,6 +1,6 @@
 # TecProto
 
-repositório contendo arquivos de tecnícas de prototipagem
+Projeto Shield Ponte H
 
 > Simulação do circuito ponte H no proteus: https://youtu.be/N4v_dAQ7tW8
 
